@@ -34,7 +34,7 @@ const VELMORA_MODELS = [
     specialties: ["Runway", "Commercial", "Editorial"],
     socialLabel: "@MasenoRuizz",
     socialUrl: "https://www.instagram.com/MasenoRuizz/",
-    image: "assets/models/omondi.jpeg",
+    image: "assets/models/Omondi.jpeg",
     bio: "Runway and commercial model known as Mr Gretsa University, bringing energy and charisma to every project."
   },
 
