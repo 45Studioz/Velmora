@@ -23,7 +23,7 @@ const VELMORA_MODELS = [
     specialties: ["Runway", "Commercial", "Shoot"],
     socialLabel: "@itsshaniqwa13",
     socialUrl: "https://www.instagram.com/itsshaniqwa13/",
-    image: "assets/models/nzoki.jpeg",
+    image: "assets/models/nzoki .jpeg",
     bio: "Runway, commercial and shoot model with a dynamic presence and versatile look for fashion and editorial work."
   },
 
