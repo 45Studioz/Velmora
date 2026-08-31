@@ -23,7 +23,7 @@ const VELMORA_MODELS = [
     specialties: ["Runway", "Commercial", "Shoot"],
     socialLabel: "@itsshaniqwa13",
     socialUrl: "https://www.instagram.com/itsshaniqwa13/",
-    image: "assets/models/nzoki .jpeg",
+    image: "assets/models/nzoki.jpeg",
     bio: "Runway, commercial and shoot model with a dynamic presence and versatile look for fashion and editorial work."
   },
 
@@ -32,9 +32,9 @@ const VELMORA_MODELS = [
     name: "Rooney Omondi",
     gender: "Male Model",
     specialties: ["Runway", "Commercial", "Editorial"],
-    socialLabel: "@Maseno Ruizz",
+    socialLabel: "@MasenoRuizz",
     socialUrl: "https://www.instagram.com/MasenoRuizz/",
-    image: "assets/models/Omondi.jpeg",
+    image: "assets/models/omondi.jpeg",
     bio: "Runway and commercial model known as Mr Gretsa University, bringing energy and charisma to every project."
   },
 
@@ -65,8 +65,8 @@ const VELMORA_MODELS = [
     name: "Nicholas Waminja",
     gender: "Male Model",
     specialties: ["Commercial", "Model Trainer"],
-    socialLabel: "",
-    socialUrl: "",
+    socialLabel: "Wami Official Tiktok",
+    socialUrl: "https://www.tiktok.com/@wami.offical?_r=1&_t=ZS-99LnjGmFiGy",
     image: "assets/models/waminja.jpeg",
     bio: "Commercial model and model trainer with a focus on developing modeling skills and professional growth."
   }
