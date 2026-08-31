@@ -14,16 +14,38 @@ const VELMORA_MODELS = [
   ADD A NEW MODEL BELOW THIS LINE.
   1. Put the photo in assets/models/
   2. Copy this template and change the information.
+  */
 
   {
-    id: "new-model-name",
-    name: "New Model Name",
+    id: "shaniqwah-nzoki",
+    name: "Shaniqwah Nzoki",
     gender: "Female Model",
-    specialties: ["Runway", "Commercial"],
-    socialLabel: "@social_handle",
-    socialUrl: "https://www.instagram.com/social_handle/",
-    image: "assets/models/new-model-name.jpg",
-    bio: "Short professional model biography."
+    specialties: ["Runway", "Commercial", "Shoot"],
+    socialLabel: "@itsshaniqwa13",
+    socialUrl: "https://www.instagram.com/itsshaniqwa13/",
+    image: "assets/models/nzoki.jpeg",
+    bio: "Runway, commercial and shoot model with a dynamic presence and versatile look for fashion and editorial work."
   },
-  */
+
+  {
+    id: "rooney-omondi",
+    name: "Rooney Omondi",
+    gender: "Male Model",
+    specialties: ["Runway", "Commercial", "Editorial"],
+    socialLabel: "@Maseno Ruizz",
+    socialUrl: "https://www.instagram.com/MasenoRuizz/",
+    image: "assets/models/omondi.jpeg",
+    bio: "Runway and commercial model known as Mr Gretsa University, bringing energy and charisma to every project."
+  },
+
+  {
+    id: "kelvin-irungu",
+    name: "Kelvin Irungu",
+    gender: "Male Model",
+    specialties: ["Runway", "Commercial", "Charity"],
+    socialLabel: "@mr_charity_kenya",
+    socialUrl: "https://www.instagram.com/mr_charity_kenya/",
+    image: "assets/models/irungu.jpeg",
+    bio: "Runway and commercial model with a passion for charity work, combining fashion with a purpose-driven presence."
+  },
 ];
