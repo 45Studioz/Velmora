@@ -58,5 +58,16 @@ const VELMORA_MODELS = [
     socialUrl: "https://www.instagram.com/Sirr.mzungu/",
     image: "assets/models/muema.jpeg",
     bio: "Commercial model, model trainer and judge with expertise in grooming talent and evaluating fashion-forward performances."
+  },
+
+  {
+    id: "nicholas-waminja",
+    name: "Nicholas Waminja",
+    gender: "Male Model",
+    specialties: ["Commercial", "Model Trainer"],
+    socialLabel: "",
+    socialUrl: "",
+    image: "assets/models/waminja.jpeg",
+    bio: "Commercial model and model trainer with a focus on developing modeling skills and professional growth."
   }
 ];
