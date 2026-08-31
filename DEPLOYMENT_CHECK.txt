@@ -1,0 +1,9 @@
+VELMORA FIXED v2
+
+Required structure:
+index.html
+models.js
+assets/velmora-logo.png
+assets/models/fredrick-ngugi.jpeg
+
+IMPORTANT: deploy/upload the entire project folder so relative image paths remain valid.
