@@ -48,4 +48,15 @@ const VELMORA_MODELS = [
     image: "assets/models/irungu.jpeg",
     bio: "Runway and commercial model with a passion for charity work, combining fashion with a purpose-driven presence."
   },
+
+  {
+    id: "samuel-muema",
+    name: "Samuel Muema",
+    gender: "Male Model",
+    specialties: ["Commercial", "Judging", "Model Trainer"],
+    socialLabel: "@Sirr.mzungu",
+    socialUrl: "https://www.instagram.com/Sirr.mzungu/",
+    image: "assets/models/muema.jpeg",
+    bio: "Commercial model, model trainer and judge with expertise in grooming talent and evaluating fashion-forward performances."
+  }
 ];
